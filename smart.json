@@ -1,0 +1,10 @@
+{
+  "name": "meteor-i18n-PJ",
+  "description": "Meteor i18n PJ",
+  "homepage": "https://bitbucket.org/plakjakub/meteor-i18n-pj",
+  "author": "Plak Jakub",
+  "version": "0.4.0",
+  "git": "https://plakjakub@bitbucket.org/plakjakub/meteor-i18n-pj.git",
+  "packages": {
+  }
+}
